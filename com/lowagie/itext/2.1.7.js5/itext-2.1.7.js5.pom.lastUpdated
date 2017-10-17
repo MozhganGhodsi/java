@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Oct 15 02:37:12 PDT 2017
+@default-jaspersoft-third-party-http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.lastUpdated=1508060232265
+https\://repo.maven.apache.org/maven2/.lastUpdated=1508060231014
+http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7.js5 from/to jaspersoft-third-party (http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/)\: Access denied to\: http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/com/lowagie/itext/2.1.7.js5/itext-2.1.7.js5.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.error=

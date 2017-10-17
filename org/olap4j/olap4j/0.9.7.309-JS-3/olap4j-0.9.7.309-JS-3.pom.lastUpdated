@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Oct 15 02:37:21 PDT 2017
+@default-jaspersoft-third-party-http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.lastUpdated=1508060241186
+https\://repo.maven.apache.org/maven2/.lastUpdated=1508060240916
+http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.error=Could not transfer artifact org.olap4j\:olap4j\:pom\:0.9.7.309-JS-3 from/to jaspersoft-third-party (http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/)\: Access denied to\: http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/org/olap4j/olap4j/0.9.7.309-JS-3/olap4j-0.9.7.309-JS-3.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.error=

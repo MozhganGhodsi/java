@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Oct 14 04:57:26 PDT 2017
+test_maven-1.0.pom>=
+test_maven-1.0-jar-with-dependencies.jar>=
+test_maven-1.0.jar>=
